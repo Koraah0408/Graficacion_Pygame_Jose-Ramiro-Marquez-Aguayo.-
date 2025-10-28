@@ -4,7 +4,7 @@ import sys
 # Inicialización
 pygame.init()
 ventana = pygame.display.set_mode((800, 600))
-pygame.display.set_caption("Mini Proyecto - Casa con Pygame")
+pygame.display.set_caption("Casa con cambio de color")
 
 # Colores
 BLANCO = (255, 255, 255)
